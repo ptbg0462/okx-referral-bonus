@@ -58,7 +58,7 @@ This isn't complicated, but people still manage to mess it up. Here's the step-b
 
 **Enter your email and create a password.** Use a real email you can access and a password that isn't "password123" or your dog's name.
 
-**Drop in the referral code 26021839.** It might auto-fill if you clicked through a referral link. If not, type it in manually. Double-check you got it right.
+**Drop in the referral code 47044926.** It might auto-fill if you clicked through a referral link. If not, type it in manually. Double-check you got it right.
 
 **Verify your email.** They'll send you a confirmation link. Click it. This is not optional.
 
@@ -121,7 +121,7 @@ First, check if you completed all the requirements – KYC, deposit, trading act
 **Is OKX safe for someone who's never traded before?**  
 Yeah. The interface is straightforward, they have guides for everything, and you can start with tiny amounts to get comfortable. You're not required to immediately start margin trading with borrowed money.
 
-👉 [**Ready to get started? Use this link to register with code 26021839 and unlock your bonuses**](https://www.okx.com/join/47044926)
+👉 [**Ready to get started? Use this link to register with code 47044926 and unlock your bonuses**](https://www.okx.com/join/47044926)
 
 ---
 
